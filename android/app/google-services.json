@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704986130238",
+    "project_id": "ci-cd-with-codemagic",
+    "storage_bucket": "ci-cd-with-codemagic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704986130238:android:57a213023d2502c31c6e6f",
+        "android_client_info": {
+          "package_name": "com.example.cicdcodemagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704986130238-2okhsol6234dtbkeu3akls01k5abhapk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARJxanxnzNxzfWLQwQPJkO6n_fCCMku6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704986130238-2okhsol6234dtbkeu3akls01k5abhapk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
